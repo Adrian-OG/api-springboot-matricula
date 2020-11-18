@@ -1,0 +1,7 @@
+com\contr\controller\cursoController.class
+com\contr\entity\alumno.class
+com\contr\entity\curso.class
+com\contr\repository\cursoRepository.class
+com\contr\controller\alumnoController.class
+com\contr\repository\alumnoRepository.class
+com\contr\MatriculaApplication.class
