@@ -1,5 +1,8 @@
 HELP.md
 
+target/*
+!target/matricula-0.0.1-SNAPSHOT.war
+!target/matricula-0.0.1-SNAPSHOT.war.original
 
 
 ### STS ###
